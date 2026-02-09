@@ -7,25 +7,11 @@ theme:
     #- navigation.tabs # uncomment this to make navigation on top
     - navigation.sections
     - toc.integrate
-    #- navigation.footer
+    - navigation.footer
 
 nav:
 - 'index.md'
-- 'disastermandate.md' # this is intro and IPC table
-- 'probabilityanswers.md'
-- 'aahat.md'
-- 'aahatanswers.md'
-- 'budgets.md'
-- 'budgetanswers.md'
-- 'forecast.md'
-- 'forecastanswers.md'
-- 'forecasterror.md'
-- 'forecasterroranswers.md'
-- 'actiondesign.md'
-- 'actiondesignanswers.md'
-- 'designtools.md'
-- 'operation.md'
-- 'finished.md'
+- 'whatpeoplesaid.md'
 
 plugins:
   - search
