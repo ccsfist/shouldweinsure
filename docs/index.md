@@ -17,9 +17,8 @@ Scroll down below the presentation to the "Can we do it?" section to see how peo
 ## The answers
 
 <iframe
-  src="{{ base_url }}/charts_aQ4xxXEnAM6UMiiRZoaGLM_standalone.html"
+  src="../charts_aQ4xxXEnAM6UMiiRZoaGLM_standalone.html"
   width="100%"
   height="800"
   style="border:none;">
 </iframe>
-
