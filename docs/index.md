@@ -1,7 +1,7 @@
 # Asking if we should?
 
 I was asked by the Columbia Climate School to host a "Hot Topics" seminar, to debate if an 
-assumption that was the center of my activity was true.  I've always been working to massively scale insurance, but haddnt really 
+assumption that was the center of my activity was true.  I've always been working to massively scale insurance, but hadn't really 
 questioned if we should.
 On Feb 6 Columbia Climate School Hot Topics Seminar, we debated if we should scale index insurace to the global majority-and if we could do it responsibly.
 
